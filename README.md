@@ -3,6 +3,8 @@ This is my implementation of the classic game of chess in Python. Some features:
 * Command line input to move pieces
 * Reset function
 
+This program can be run as a Jupyter notebook. I used VS Code's Jupyter extension to run it.
+
 Here is a preview:
 
 
