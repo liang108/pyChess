@@ -1,4 +1,5 @@
 This is my implementation of the classic game of chess in Python. Some features:
+* Pieces have logic
 * Command line input to move pieces
 * Reset function
 
