@@ -1,12 +1,7 @@
 TODO: 
 - Break up checkMoves() into reusable parent functions
 
-This is my implementation of the classic game of chess in Python. Some features:
-* Pieces have logic
-* Command line input to move pieces
-* Reset function
-
-This program can be run as a Jupyter notebook. I used VS Code's Jupyter extension to run it.
+This is my implementation of the classic game of chess using Pygame.
 
 Here is a preview:
 
