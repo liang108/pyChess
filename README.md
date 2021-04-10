@@ -1,5 +1,5 @@
 TODO: 
-- Break up checkMoves() into reusable functions
+- Break up checkMoves() into reusable parent functions
 
 This is my implementation of the classic game of chess in Python. Some features:
 * Pieces have logic
