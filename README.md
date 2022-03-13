@@ -1,7 +1,4 @@
-TODO: 
-- Break up checkMoves() into reusable parent functions
-
-This is my implementation of the classic game of chess using Pygame.
+This is my implementation of chess using Pygame.
 
 Here is a preview:
 
