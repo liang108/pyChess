@@ -1,6 +1,6 @@
-This is my implementation of chess using Pygame.
+Using Pygame.
 
-Here is a preview:
+Preview:
 
 
 ![alt text](https://github.com/liang108/Python-Chess/blob/master/Demos/chess1.PNG)
